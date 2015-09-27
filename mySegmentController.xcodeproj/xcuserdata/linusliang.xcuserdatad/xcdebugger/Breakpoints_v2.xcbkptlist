@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "mySegmentController/FirstVC.swift"
+            timestampString = "465008275.234173"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "19"
+            endingLineNumber = "19"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "mySegmentController/FirstVC.swift"
+            timestampString = "465008295.719299"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "20"
+            endingLineNumber = "20"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "mySegmentController/FirstVC.swift"
+            timestampString = "464987692.002671"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "12"
+            endingLineNumber = "12"
+            landmarkName = "FirstVC"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "mySegmentController.FirstVC.segmentController.getter : Swift.Optional&lt;ObjectiveC.UISegmentedControl&gt;"
+                  moduleName = "mySegmentController"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/linusliang/Projects/mySegmentController/mySegmentController/FirstVC.swift"
+                  timestampString = "464986002.146782"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "12">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "mySegmentController.FirstVC.segmentController.setter : Swift.Optional&lt;ObjectiveC.UISegmentedControl&gt;"
+                  moduleName = "mySegmentController"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/linusliang/Projects/mySegmentController/mySegmentController/FirstVC.swift"
+                  timestampString = "464986002.147291"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "16">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "mySegmentController.FirstVC.segmentController.materializeForSet : Swift.Optional&lt;ObjectiveC.UISegmentedControl&gt;"
+                  moduleName = "mySegmentController"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/linusliang/Projects/mySegmentController/mySegmentController/FirstVC.swift"
+                  timestampString = "464986002.147463"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "12">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "mySegmentController.FirstVC.init (mySegmentController.FirstVC.Type)(nibName : Swift.Optional&lt;Swift.String&gt;, bundle : Swift.Optional&lt;ObjectiveC.NSBundle&gt;) -&gt; mySegmentController.FirstVC"
+                  moduleName = "mySegmentController"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/linusliang/Projects/mySegmentController/mySegmentController/FirstVC.swift"
+                  timestampString = "464986002.147607"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "69">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "mySegmentController.FirstVC.init (mySegmentController.FirstVC.Type)(coder : ObjectiveC.NSCoder) -&gt; Swift.Optional&lt;mySegmentController.FirstVC&gt;"
+                  moduleName = "mySegmentController"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/linusliang/Projects/mySegmentController/mySegmentController/FirstVC.swift"
+                  timestampString = "464986002.147758"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "28">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
